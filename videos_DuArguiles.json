@@ -5,11 +5,15 @@
     "duration": "15m 13s",
     "format": "Widescreen",
     "category": "Bate Papo",
+    "month": "Junho",
     "year": "2018",
+    "language": "Português",
     "images": {
-        "hero": "talk-ray-wenderlich-teamwork.jpeg"
+        "720x1080": "DuArguile-720|1080.png",
+        "640x320": "DuArguile-640|320.png"
     },
-    "description":"Um Papo sério sobre a diferença real sobre o Arguile e Cigarro. O que é verdade e o que é mentira.",
-    "url":"https://ufile.io/g96mz",
+    "description":"Um Papo sério sobre a diferença real sobre o Arguile e Cigarro.",
+    "shortDescription":"O que é verdade e o que é mentira ?",
+    "url":"https://kamagno.github.io/HookahTVML/videos/DuArguile_Fatos-sobre-arguile.mp4",
     "path":"videos/DuArguile_Fatos-sobre-arguile"
 }
